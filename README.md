@@ -1,2 +1,3 @@
 # miniplc0-java
-editted from big brother
+
+这里是 miniplc0 实验的 Java 版本。

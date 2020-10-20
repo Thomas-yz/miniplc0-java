@@ -1,0 +1,6 @@
+Line: 0 Column: 4 Type: Begin Value: begin
+Line: 1 Column: 7 Type: Identifier Value: yjsp
+Line: 1 Column: 9 Type: EqualSign Value: =
+Line: 1 Column: 16 Type: UnsignedInteger Value: 114514
+Line: 1 Column: 17 Type: Semicolon Value: ;
+Line: 2 Column: 2 Type: End Value: end
